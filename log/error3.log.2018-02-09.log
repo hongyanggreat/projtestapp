@@ -1,0 +1,16 @@
+2018-02-09 16:59:42 [ERROR] gk.htc.sendMT.service.thread.VMG_Task:85: - 2018-02-09 16:59:42.851||null
+com.gk.htc.sendMT.service.thread.VMG_Task$1.run(VMG_Task.java:73)
+com.gk.htc.ahp.brand.service.primarywork.WorkQueue$PoolWorker.run(WorkQueue.java:144)
+
+2018-02-09 16:59:49 [ERROR] gk.htc.sendMT.service.thread.VMG_Task:85: - 2018-02-09 16:59:49.085||null
+com.gk.htc.sendMT.service.thread.VMG_Task$1.run(VMG_Task.java:73)
+com.gk.htc.ahp.brand.service.primarywork.WorkQueue$PoolWorker.run(WorkQueue.java:144)
+
+2018-02-09 16:59:59 [ERROR] gk.htc.sendMT.service.thread.VMG_Task:85: - 2018-02-09 16:59:59.093||null
+com.gk.htc.sendMT.service.thread.VMG_Task$1.run(VMG_Task.java:73)
+com.gk.htc.ahp.brand.service.primarywork.WorkQueue$PoolWorker.run(WorkQueue.java:144)
+
+2018-02-09 17:00:09 [ERROR] gk.htc.sendMT.service.thread.VMG_Task:85: - 2018-02-09 17:00:09.098||null
+com.gk.htc.sendMT.service.thread.VMG_Task$1.run(VMG_Task.java:73)
+com.gk.htc.ahp.brand.service.primarywork.WorkQueue$PoolWorker.run(WorkQueue.java:144)
+

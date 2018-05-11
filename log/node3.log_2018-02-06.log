@@ -1,0 +1,130 @@
+06-02-2018 00:20:23 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 00:21:10 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 00:21:10 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 00:21:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 00:21:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 00:21:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 00:21:10 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 00:21:10 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 00:21:10 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 00:21:11 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 00:26:21 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 00:26:31 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 00:26:31 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 00:26:31 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 00:26:31 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 00:26:31 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 00:26:32 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 00:26:32 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 00:26:32 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 00:26:32 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 00:34:05 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 00:34:05 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 00:34:05 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 00:34:05 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 00:34:05 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 00:34:06 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 00:34:06 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 00:34:06 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 00:34:06 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 00:39:18 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 00:39:18 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 00:39:18 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 00:39:18 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 00:39:18 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 00:39:19 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 00:39:19 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 00:39:19 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 00:39:19 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 00:40:28 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Invalid UTF-8 middle byte 0x69
+ at [Source: org.mortbay.jetty.HttpParser$Input@7f86ac69; line: 1, column: 162]
+06-02-2018 08:36:19 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Unexpected character ('\' (code 92)): was expecting double-quote to start field name
+ at [Source: org.mortbay.jetty.HttpParser$Input@4edbafee; line: 1, column: 3]
+06-02-2018 08:38:20 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Unexpected character ('\' (code 92)): was expecting double-quote to start field name
+ at [Source: org.mortbay.jetty.HttpParser$Input@592bc63c; line: 1, column: 3]
+06-02-2018 08:38:33 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Invalid UTF-8 middle byte 0x69
+ at [Source: org.mortbay.jetty.HttpParser$Input@7652d92f; line: 1, column: 162]
+06-02-2018 09:48:13 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 09:49:22 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 09:49:22 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 09:49:22 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 09:49:22 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 09:49:22 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 09:49:22 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 09:49:22 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 09:49:22 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 09:49:23 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 09:50:10 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Invalid UTF-8 middle byte 0x69
+ at [Source: org.mortbay.jetty.HttpParser$Input@3fe356c5; line: 1, column: 162]
+06-02-2018 09:57:17 [WARN ] org.mortbay.log:76 - /service/sms_api/test: org.codehaus.jackson.JsonParseException: Invalid UTF-8 middle byte 0x69
+ at [Source: org.mortbay.jetty.HttpParser$Input@4f47180b; line: 1, column: 162]
+06-02-2018 10:26:16 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 10:26:40 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 10:26:40 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 10:26:40 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 10:26:40 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 10:26:40 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 10:26:41 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 10:26:41 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 10:26:41 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 10:26:41 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 10:30:58 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 10:31:19 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 10:31:19 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 10:31:19 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 10:31:19 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 10:31:19 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 10:31:20 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 10:31:20 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 10:31:20 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 10:31:20 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 10:34:39 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 10:36:55 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 10:36:55 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 10:36:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 10:36:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 10:36:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 10:36:56 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 10:36:56 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 10:36:56 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 10:36:57 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 11:00:16 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 11:00:32 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 11:00:32 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 11:00:32 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 11:00:32 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 11:00:32 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 11:00:32 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 11:00:32 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 11:00:32 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 11:00:33 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 12:02:04 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 12:02:25 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 12:02:25 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 12:02:25 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 12:02:25 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 12:02:25 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 12:02:25 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 12:02:25 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 12:02:25 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 12:02:26 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 12:03:32 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84966878997","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 409360572105454","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517893412121,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"CommCredit-84966878997-409360572121864","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":213,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84966878997-5445cea2646179","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 12:03:37 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84966878997","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 409360572105454","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517893412121,"timeSend":1517893412339,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"CommCredit-84966878997-409360572121864","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":5122,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84966878997-5445cea2646179","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 12:28:22 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84966878997","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 410850691301338","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517894902642,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"CommCredit-84966878997-410850691317748","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":3,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84966878997-544729ac47d534","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 12:28:27 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84966878997","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 410850691301338","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517894902642,"timeSend":1517894902654,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"CommCredit-84966878997-410850691317748","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":5081,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84966878997-544729ac47d534","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 12:34:24 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 411212691505554","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517895264542,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"CommCredit-84986233352-411212691538010","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":2,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-54477def2a705f","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 12:34:29 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 411212691505554","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517895264542,"timeSend":1517895264553,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"CommCredit-84986233352-411212691538010","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":5064,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-54477def2a705f","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 13:17:58 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+06-02-2018 13:18:16 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+06-02-2018 13:18:16 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+06-02-2018 13:18:16 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+06-02-2018 13:18:16 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+06-02-2018 13:18:16 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+06-02-2018 13:18:16 [INFO ] gk.htc.ahp.brand.app.AppStart:347 - This App Service not allow Notify Alert
+06-02-2018 13:18:16 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+06-02-2018 13:18:16 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+06-02-2018 13:18:17 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+06-02-2018 13:18:38 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 413866372256209","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517897918668,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"CommCredit-84986233352-413866372275537","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":185,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-5449e7e58e3c1d","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 13:18:39 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: Gửi Minh kudo .Tin nhắn có dấu ^_^ 413866372256209","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517897918668,"timeSend":1517897918859,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"CommCredit-84986233352-413866372275537","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":227,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-5449e7e58e3c1d","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 13:19:23 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: G�i Minh kudo .Tin nh�n c� d�u ^_^ 413911932312908","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517897963724,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"CommCredit-84986233352-413911932328589","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":4,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-5449f262f4771f","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+06-02-2018 13:19:28 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84986233352","oper":"VTE","message":"CommCredit: G�i Minh kudo .Tin nh�n c� d�u ^_^ 413911932312908","totalSms":1,"label":"CommCredit","userSender":"myname","requestTime":1517897963724,"timeSend":1517897963732,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"CommCredit-84986233352-413911932328589","messageId":null,"sendTo":"HTC_SOUTH","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":5183,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEndCode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84986233352-5449f262f4771f","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}

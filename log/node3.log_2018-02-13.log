@@ -1,0 +1,10 @@
+13-02-2018 10:21:59 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+13-02-2018 10:22:51 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+13-02-2018 10:22:51 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+13-02-2018 10:22:51 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+13-02-2018 10:22:51 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+13-02-2018 10:22:51 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+13-02-2018 10:22:52 [INFO ] gk.htc.ahp.brand.app.AppStart:357 - This App Service not allow Notify Alert
+13-02-2018 10:22:52 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+13-02-2018 10:22:52 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+13-02-2018 10:22:53 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983

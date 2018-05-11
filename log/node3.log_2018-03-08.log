@@ -1,0 +1,42 @@
+08-03-2018 12:19:10 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+08-03-2018 12:19:10 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+08-03-2018 12:19:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+08-03-2018 12:19:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+08-03-2018 12:19:10 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+08-03-2018 12:19:11 [INFO ] gk.htc.ahp.brand.app.AppStart:368 - This App Service not allow Notify Alert
+08-03-2018 12:19:11 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+08-03-2018 12:19:11 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+08-03-2018 12:19:12 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+08-03-2018 16:51:15 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+08-03-2018 16:53:54 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+08-03-2018 16:53:54 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+08-03-2018 16:53:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+08-03-2018 16:53:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+08-03-2018 16:53:55 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+08-03-2018 16:53:55 [INFO ] gk.htc.ahp.brand.app.AppStart:368 - This App Service not allow Notify Alert
+08-03-2018 16:53:55 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+08-03-2018 16:53:55 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+08-03-2018 16:53:56 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+08-03-2018 16:54:03 [INFO ] org.mortbay.log:67 - Stopped SocketConnector@0.0.0.0:9983
+08-03-2018 16:54:11 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+08-03-2018 16:54:11 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+08-03-2018 16:54:11 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+08-03-2018 16:54:11 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+08-03-2018 16:54:11 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+08-03-2018 16:54:12 [INFO ] gk.htc.ahp.brand.app.AppStart:368 - This App Service not allow Notify Alert
+08-03-2018 16:54:12 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+08-03-2018 16:54:12 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+08-03-2018 16:54:12 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
+08-03-2018 16:54:27 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84962705893","oper":"VTE","message":"PHUONGCHAU : có tranId Tiếng việt có dấu 30235630269913","totalSms":1,"label":"PHUONGCHAU","userSender":"myname","requestTime":1520502866958,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"PHUONGCHAU-84962705893-30235630285024","messageId":null,"sendTo":"MBF_VASVTE","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":185,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEncode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84962705893-5d8b17af11c843","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+08-03-2018 16:54:27 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84962705893","oper":"VTE","message":"PHUONGCHAU : có tranId Tiếng việt có dấu 30235630269913","totalSms":1,"label":"PHUONGCHAU","userSender":"myname","requestTime":1520502866958,"timeSend":1520502867149,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"PHUONGCHAU-84962705893-30235630285024","messageId":null,"sendTo":"MBF_VASVTE","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":510,"providerDesc":"Insert MT_QUEUE: OK","node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEncode":1,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84962705893-5d8b17af11c843","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+08-03-2018 16:55:40 [INFO ] REQUEST_LOG:23 - {"id":0,"phone":"84962705893","oper":"VTE","message":"BVQT Phuong Chau xin thong tin: Quy Khach duoc tang the Phuong Chau Care voi nhieu quyen loi va uu dai khi su dung dich vu tai BV. Dac biet trong CT THANG 3 TUYET VOI-DANH TANG PHU NU Quy Khach duoc UU DAI 20% GOI TAM SOAT UNG THU PHU KHOA VA 30% GOI TRE HOA VUNG KIN BANG LASER. Chi tiet vui long lien he 1900545466 hoac truy cap: https://goo.gl/sdPdpq. PC xin cam on","totalSms":3,"label":"PHUONGCHAU","userSender":"myname","requestTime":1520502940095,"timeSend":null,"result":99,"type":0,"errorInfo":"RECEIVED","tranId":"PHUONGCHAU-84962705893-30309040915698","messageId":null,"sendTo":"MBF_VASVTE","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":13,"providerDesc":null,"node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEncode":0,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84962705893-5d8b28b6345671","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+08-03-2018 16:55:40 [INFO ] SUBMIT_LOG:30 - {"id":0,"phone":"84962705893","oper":"VTE","message":"BVQT Phuong Chau xin thong tin: Quy Khach duoc tang the Phuong Chau Care voi nhieu quyen loi va uu dai khi su dung dich vu tai BV. Dac biet trong CT THANG 3 TUYET VOI-DANH TANG PHU NU Quy Khach duoc UU DAI 20% GOI TAM SOAT UNG THU PHU KHOA VA 30% GOI TRE HOA VUNG KIN BANG LASER. Chi tiet vui long lien he 1900545466 hoac truy cap: https://goo.gl/sdPdpq. PC xin cam on","totalSms":3,"label":"PHUONGCHAU","userSender":"myname","requestTime":1520502940095,"timeSend":1520502940110,"result":1,"type":0,"errorInfo":"SUBMITTED","tranId":"PHUONGCHAU-84962705893-30309040915698","messageId":null,"sendTo":"MBF_VASVTE","brGroup":"0","sarMsgRefNum":0,"sarSegmentSeqnum":0,"sarTotalSegments":0,"processTime":40,"providerDesc":"Insert MT_QUEUE: OK","node":"NODE_3","cpCode":"MYNAME","retry":0,"shutDown":false,"dataEncode":0,"timeOut":false,"startTime":0,"list_messageId":null,"reqId_vivas":null,"cacheFrom":null,"systemId":"84962705893-5d8b28b6345671","source":"API","optString":"{\"vinaphone\":{\"labelId\":\"0\",\"tmpId\":\"0\"}}","extenInfo":"118.70.109.34|api.brand1.xyz:9983-118.70.109.34"}
+08-03-2018 16:57:50 [INFO ] snaq.db.ConnectionPoolManager:591 - Loaded ConnectionPoolManager properties with encoding UTF-8
+08-03-2018 16:57:50 [WARN ] snaq.db.ConnectionPoolManager.brand:1327 - brand: Invalid releaseTimeout value null for brand
+08-03-2018 16:57:50 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Disabling caching on pool brand
+08-03-2018 16:57:50 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Enabling release timeout (0ms) on pool brand
+08-03-2018 16:57:50 [INFO ] snaq.db.ConnectionPoolManager.brand:1352 - brand: Created pool brand (minpool=10,maxpool=100,maxsize=100,idleTimeout=180)
+08-03-2018 16:57:50 [INFO ] gk.htc.ahp.brand.app.AppStart:368 - This App Service not allow Notify Alert
+08-03-2018 16:57:50 [INFO ] org.mortbay.log:67 - Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+08-03-2018 16:57:50 [INFO ] org.mortbay.log:67 - jetty-6.1.26
+08-03-2018 16:57:51 [INFO ] org.mortbay.log:67 - Started SocketConnector@0.0.0.0:9983
